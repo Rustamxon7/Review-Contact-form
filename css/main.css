@@ -345,8 +345,16 @@ li {
   background-color: white;
 }
 
+.contact-form-header h2 {
+  font-weight: 400;
+}
+
 .form-group {
   border: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
 }
 
 .form-group input {
@@ -361,6 +369,7 @@ li {
   border-width: 0 0 1px;
   border-color: #dbd8d7;
   padding: 24px;
+  padding-bottom: 12px;
 }
 
 .form-group-textarea {
@@ -374,6 +383,7 @@ li {
   width: 100%;
   height: 114px;
   padding: 12px 20px;
+  margin-bottom: 24px;
   box-sizing: border-box;
   border: 2px none #ccc;
   background-color: #fbf8f7;
@@ -390,7 +400,7 @@ li {
 
 .btn-1 {
   align-self: center;
-  background-color: #ff6b00;
+  background-color: #00d9ff;
   color: #fff;
   font-family: 'Inter', sans-serif;
   font-style: normal;
