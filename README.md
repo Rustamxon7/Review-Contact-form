@@ -4,7 +4,7 @@
 
 > This is a portfolio project for my personal website.
 
-![screenshot](./screenshot.png)
+![Screen Shot 2021-11-19 at 12 36 59 AM](https://user-images.githubusercontent.com/69011963/142485114-550182d5-d8ce-493c-be41-ee7a5d54df15.png)
 
 Additional description about the project and its features.
 
